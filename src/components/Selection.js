@@ -4,7 +4,6 @@ import '../styles/App.css';
 export default function Selection({applyColor}){
   
   const [style,setStyle]=useState({background:""});
- =
 
 
 
